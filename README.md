@@ -1,4 +1,4 @@
-# Vendor Performance Analysis – Retail Inventory & Sales
+# End-to-End Blinkit Retail Analytics: SQL, Excel, Python & Power BI Dashboards
 
 ## 📊 Project Overview
 
